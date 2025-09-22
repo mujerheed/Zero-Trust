@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# AWS
+.aws/
+
+# Local AWS
+.aws-sam/
+.env
+.idea/
+.vscode/
